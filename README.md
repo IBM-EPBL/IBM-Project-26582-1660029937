@@ -16,8 +16,8 @@ In order to predict the resale value of the car, we proposed an intelligent, fle
 # Team
 
 | NAME | ROLL NUMBER | DEPARTMENT |
-| :---         |     :---:      |          :---: |
-| ASWINKUMAR M   | 953619104005     | CSE    |
-| ABHINAV R     | 953619104001       | CSE      |
-| THARUNKUMAR B   | 953619104044     | CSE    |
-| SRI RAMAKRISHNAN J     | 953619104040       | CSE      |
+| :---         |     :---:      |         
+| ASWINKUMAR M   | 953619104005     | 
+| ABHINAV R     | 953619104001       | 
+| THARUNKUMAR B   | 953619104044     | 
+| SRI RAMAKRISHNAN J     | 953619104040       |

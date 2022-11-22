@@ -15,7 +15,7 @@ In order to predict the resale value of the car, we proposed an intelligent, fle
 
 # Team
 
-| NAME | ROLL NUMBER | DEPARTMENT |
+| NAME | ROLL NUMBER |
 | :---         |     :---:      |         
 | ASWINKUMAR M   | 953619104005     | 
 | ABHINAV R     | 953619104001       | 
